@@ -9,3 +9,5 @@ Steps to Run the game:
 2. Follow the index.html 
 3.start the Live server(I used Vscode Live server) 
 4.Enjoy!!
+
+Demo : https://abhishek765.github.io/Bunny-Defender/
