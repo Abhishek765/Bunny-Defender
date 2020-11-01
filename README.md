@@ -14,7 +14,6 @@ Demo : https://abhishek765.github.io/Bunny-Defender/
 
 # Screenshots:
 
-https://github.com/Abhishek765/Bunny-Defender/blob/master/images/demo1.jpeg
 
 <span><img src="https://github.com/Abhishek765/Bunny-Defender/blob/master/images/demo2.jpeg" width="auto" height="300">&#160;&#160;&#160;
 <img src="https://github.com/Abhishek765/Bunny-Defender/blob/master/images/demo1.jpeg" width="auto" height="300">&#160;&#160;&#160;
